@@ -1,6 +1,6 @@
-# $$x_{n+1} = rx_n(1-x_n)$$
-
 <div align="center">
+
+# $$x_{n+1} = rx_n(1-x_n)$$
 
 ![](https://img.shields.io/endpoint?url=https://wakapi.54sher.com/api/compat/shields/v1/XianlitiCN/interval:all_time&label=All%20time&color=blue)
 ![](https://wakapi.54sher.com/api/badge/XianlitiCN/XianlitiCN/interval:30_days?label=last%2030d)
