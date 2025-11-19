@@ -2,6 +2,20 @@
 
 # $$x_{n+1} = rx_n(1-x_n)$$
 
+</div>
+
+- Studying Law at Central South University
+
+- Independent developer passionate about computer science
+
+- Member of the Cyberspace Affairs Department, Central South University Youth League Committee ([54shenghua](https://github.com/54shenghua))
+
+- An insignificant music producer
+
+---
+
+<div align="center">
+
 ![](https://img.shields.io/endpoint?url=https://wakapi.54sher.com/api/compat/shields/v1/XianlitiCN/interval:all_time&label=All%20time&color=blue)
 ![](https://wakapi.54sher.com/api/badge/XianlitiCN/XianlitiCN/interval:30_days?label=last%2030d)
 
@@ -9,11 +23,13 @@
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Razor](https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Frameworks & Tools
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-34a853?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 ![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-7952B3?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
