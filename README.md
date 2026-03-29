@@ -4,13 +4,13 @@
 
 </div>
 
-- Studying Law at Central South University
+- Student at the Law School, Central South University
 
 - Independent developer passionate about computer science
 
 - Member of the Cyberspace Affairs Department, Central South University Youth League Committee ([54shenghua](https://github.com/54shenghua))
 
-- An insignificant music producer
+- An insignificant music producer ([线粒体](https://music.163.com/artist?id=54572046))
 
 ---
 
