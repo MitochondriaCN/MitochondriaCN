@@ -21,6 +21,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=XianlitiCN&api_domain=wakapi.54sher.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
 
+![](https://wakapi.54sher.com/api/activity/chart/XianlitiCN.svg)
+
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
